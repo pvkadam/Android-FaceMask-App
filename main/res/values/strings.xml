@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hw1_pic</string>
+    <string name="action_settings">Settings</string>
+    <string name="imagesave">result</string>
+    <string name="todo1">TODO1</string>
+    <string name="todo2">TODO2</string>
+    <!--<string name="poojakadam">poojaVkadam</string> -->
+    <string name="todo">TODO</string>
+    <string name="poojakadam">poojaVkadam</string>
+    <!--string name="imagesave1">result1</string-->
+</resources>
